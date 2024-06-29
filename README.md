@@ -1,1 +1,1 @@
-# Comparando-SOM-K-means-vs-K-means-para-Agrupamento-de-Imagens-de-C-elulas-de-Leucemia-Linfoblastica
+# Comparando SOM+K-means vs. K-means para Agrupamento de Imagens de Células de LeucemiaLinfoblástica
